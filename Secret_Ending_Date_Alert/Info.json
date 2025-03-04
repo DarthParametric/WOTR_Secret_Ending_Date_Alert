@@ -1,0 +1,14 @@
+﻿{
+	"Id": "Secret_Ending_Date_Alert",
+	"DisplayName": "Secret Ending Date Alert",
+	"Author": "DarthParametric",
+	"Version": "1.0.0",
+    "GameVersion": "2.6.0",
+    "ManagerVersion": "0.31.0",
+	"Requirements": [],
+    "LoadAfter": [],
+	"AssemblyName": "Secret_Ending_Date_Alert.dll",
+	"EntryMethod": "Secret_Ending_Date_Alert.Main.Load",
+	"HomePage": "https://github.com/DarthParametric/WOTR_Secret_Ending_Date_Alert",
+	"Repository": "https://raw.githubusercontent.com/DarthParametric/WOTR_Secret_Ending_Date_Alert/master/Secret_Ending_Date_Alert/Repository.json"
+}

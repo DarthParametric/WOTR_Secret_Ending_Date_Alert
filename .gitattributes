@@ -1,0 +1,2 @@
+# Exclude readme preview images from being included in the source zip.
+/img export-ignore
