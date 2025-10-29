@@ -106,9 +106,9 @@ public static class Main
 			// Have a pop-up notification. SendWarning is a small non-interactive notice that fades after a few seconds. ShowMessageBox requires user interaction
 			// and blocks further play until acknowledged. Allow the user to set their preference for either (or neither) via ModMenu.
 			// Available modal types are Message, Dialog, TextField. Dialog accounts for yes/no player input, message only has a single player input(?).
-			// TextField seems similar to Dialog? One example is the overwriting a save confirmation pop-up.
+			// TextField is similar to Dialog, but allows for a second string input. An example is the overwriting a save confirmation pop-up.
 
-			// Temp variables for testing until ModMenu implentation.
+			// Temp variables for testing until ModMenu implementation.
 			var MMAllowPopUps = true;
 			var MMDialogue = true;
 			var MMMessage = true;

@@ -9,7 +9,7 @@ A mod for Owlcat's Pathfinder: Wrath of the Righteous. Adds a message to the com
 1. Run your game.
 
 # Notes and Known Issues:
-- TBA
+- You can optionally enable two additional pop-up notification types via the settings page in ModMenu for maximum visibility.
 
 # Thanks & Acknowledgements:
 - Everyone in the `#mod-dev-technical` channel of the Owlcat Discord server for various modding-related discussions and suggestions, help troubleshooting issues, and answering general questions.
